@@ -1,3 +1,4 @@
+>SAMPLİNG
 Sampling theory is a branch of statistics that deals with the selection, gathering, and evaluation of data obtained from a sample population
 2
 . It provides efficient and trusted methods to estimate and draw inferences, plus estimate characteristics of the whole population along with testing hypotheses
