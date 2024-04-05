@@ -11,3 +11,13 @@
 *A confidence interval is the mean of your estimate plus and minus the variation in that estimate. This is the range of values you expect your estimate to fall between if you redo your test, within a certain level of confidence. Confidence, in statistics, is another way to describe probability.*
 ![image](https://www.simplypsychology.org/wp-content/uploads/confidence-interval.jpg)
 ![image](https://www.questionpro.com/blog/wp-content/uploads/2022/08/confidence-interval-formula.jpg)
+# PROBABILITY DISTRIBUTIONS
+## 1. Discrete Probability Distributions:
+* *Bernoulli Distribution: Models a single experiment with two possible outcomes (e.g., success/failure, heads/tails).*
+  
+![image](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/bernoulli-distribution-graph-1634631289.png)
+
+* *Binomial Distribution: Describes the number of successes in a fixed number of independent Bernoulli trials.*
+* *Poisson Distribution: Models the number of rare events in a fixed interval of time or space.*
+  ### The Law of Large Numbers
+  **The probability theorem that describes the long-term stability of random variables is the law of large numbers.**
