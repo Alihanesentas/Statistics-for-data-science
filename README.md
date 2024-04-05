@@ -18,6 +18,9 @@
 ![image](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/bernoulli-distribution-graph-1634631289.png)
 
 * *Binomial Distribution: Describes the number of successes in a fixed number of independent Bernoulli trials.*
+* 
+* ![image](image-1.png)
+* 
 * *Poisson Distribution: Models the number of rare events in a fixed interval of time or space.*
   ### The Law of Large Numbers
   **The probability theorem that describes the long-term stability of random variables is the law of large numbers.**
