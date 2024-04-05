@@ -24,7 +24,7 @@
   
 * *Poisson Distribution: Models the number of rare events in a fixed interval of time or space.*
 
-   ![image](https://i.ibb.co/vB74JmF/image.png)
+   ![image](https://gcdnb.pbrd.co/images/4gRTAk7bkaTJ.png?o=1)
   
   ### The Law of Large Numbers
   **The probability theorem that describes the long-term stability of random variables is the law of large numbers.**
