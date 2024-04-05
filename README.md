@@ -28,3 +28,8 @@
   
   ### The Law of Large Numbers
   **The probability theorem that describes the long-term stability of random variables is the law of large numbers.**
+ 
+ ## 2. Continuous Probability Distributions:
+* *Normal Distribution :The normal distribution is one of the most important and widely used continuous probability distributions in statistics. The normal distribution represents a bell-shaped distribution that is symmetrical and has its peak at a single central point. This distribution is observed in many natural processes and sampling distributions thanks to the central limit theorem.*
+    ![image](https://gcdnb.pbrd.co/images/98q3Sb7G8RrO.png?o=1)
+    
