@@ -19,7 +19,7 @@
 
 * *Binomial Distribution: Describes the number of successes in a fixed number of independent Bernoulli trials.*
 * 
-* ![image](image-1.png)
+* ![image](https://ibb.co/SrZ6TC8)
 * 
 * *Poisson Distribution: Models the number of rare events in a fixed interval of time or space.*
   ### The Law of Large Numbers
