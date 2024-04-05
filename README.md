@@ -4,47 +4,6 @@
 *Sampling is a crucial aspect of statistical analysis because it allows researchers to gather data efficiently and make generalizations about a population without having to study every individual within that population. However, for the inferences drawn from a sample to be valid, it's essential that the sample is representative of the population it is drawn from.*
 
 # DESCRIPTIVE STATICS
-## Mean
-Mean (Arithmetic Mean):
-
-Formula: 
-Formula: 
-�
-ˉ
-=
-∑
-�
-=
-1
-�
-�
-�
-�
-x
-ˉ
- = 
-n
-∑ 
-i=1
-n
-​
- x 
-i
-​
- 
-​
- 
-Here, 
-�
-�
-x 
-i
-​
-  represents each value in the dataset, 
-�
-n represents the number of data points, and 
-�
-ˉ
-x
-ˉ
-  represents the mean.
+![image](https://github.com/Alihanesentas/Statistics-for-data-science/assets/147850914/01d4fcbc-a1a1-4d9c-8ad4-5149d49c4780)
+# SHAPE MEASUREMENT
+![image](https://github.com/Alihanesentas/Statistics-for-data-science/assets/147850914/5bc514ec-cb7e-4143-bf4d-2452d2ea67bc)
