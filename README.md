@@ -9,5 +9,5 @@
 ![image](https://github.com/Alihanesentas/Statistics-for-data-science/assets/147850914/5bc514ec-cb7e-4143-bf4d-2452d2ea67bc)
 # CONFIDENCE INTERVAL 
 *A confidence interval is the mean of your estimate plus and minus the variation in that estimate. This is the range of values you expect your estimate to fall between if you redo your test, within a certain level of confidence. Confidence, in statistics, is another way to describe probability.*
-![alt text](image.png)
-![alt text](image-3.png)
+![image](https://www.simplypsychology.org/wp-content/uploads/confidence-interval.jpg)
+![image](https://www.questionpro.com/blog/wp-content/uploads/2022/08/confidence-interval-formula.jpg)
