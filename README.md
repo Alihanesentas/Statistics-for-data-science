@@ -33,3 +33,7 @@
 * *Normal Distribution :The normal distribution is one of the most important and widely used continuous probability distributions in statistics. The normal distribution represents a bell-shaped distribution that is symmetrical and has its peak at a single central point. This distribution is observed in many natural processes and sampling distributions thanks to the central limit theorem.*
     ![image](https://gcdnb.pbrd.co/images/98q3Sb7G8RrO.png?o=1)
     
+    # HYPOTHESIS TEST
+    **Hypothesis testing is a statistical method used to test a specific claim based on sample data. Typically, two opposing hypotheses are worked with: the null hypothesis (H0) and the alternative hypothesis (H1).**
+    *The null hypothesis usually refers to the current situation or the default situation, while the alternative hypothesis states that the null hypothesis is not true.*
+    
